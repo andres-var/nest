@@ -1,0 +1,9 @@
+{
+    "created": "El usuario {name} fue creado correctamente",
+    "updated": "El usuario {name} fue actualizado correctamente",
+    "deleted": "El usuario {name} fue borrado correctamente",
+    "not-deleted": "No fue posible eliminar el usuario {name}",
+    "not-founded": "El usuario no fue encontrado",
+    "not-founded-email": "El usuario con el correo {email} no fue encontrado'"
+}
+  

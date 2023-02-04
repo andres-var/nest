@@ -1,0 +1,11 @@
+{
+    "11000": "The {{field}} field must be unique",
+    "11001": "The {{field}} field cannot be null",
+    "12000": "Excessive size error in the {{field}} field",
+    "13000": "The {{field}} field cannot be updated",
+    "14000": "The {{field}} field cannot be deleted",
+    "15000": "The {{field}} field cannot be modified",
+    "16000": "Cannot create index on the {{field}} field",
+    "17000": "Cannot delete index on the {{field}} field",
+    "18000": "Cannot modify index on the {{field}} field"
+}

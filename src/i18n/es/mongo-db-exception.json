@@ -1,0 +1,12 @@
+{
+    "11000": "El campo '{field}' debe de ser único",
+    "11001": "El campo '{field}' no puede ser nulo",
+    "12000": "Error de tamaño excesivo en el campo '{field}'",
+    "13000": "No se puede actualizar el campo '{field}'",
+    "14000": "No se puede eliminar el campo '{field}'",
+    "15000": "No se puede modificar el campo '{field}'",
+    "16000": "No se puede crear el índice en el campo '{field}'",
+    "17000": "No se puede eliminar el índice en el campo '{field}'",
+    "18000": "No se puede modificar el índice en el campo '{field}'"
+}
+  
